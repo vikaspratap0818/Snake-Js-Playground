@@ -25,7 +25,29 @@ Features include a clean UI, game modals, score tracking, high score storage, an
 
 ---
 
-## 🚀 Getting Started
+<img width="1919" height="916" alt="Screenshot 2025-11-12 114148" src="https://github.com/user-attachments/assets/05810851-292f-4ed4-b72c-891f96420bfe" />
+
+
+🔮 Future Improvements
+
+🧱 Add obstacles and power-ups
+
+🌈 Add sound effects and themes
+
+📱 Make it fully responsive for mobile devices
+
+🧩 Add a multiplayer mode
+
+👨‍💻 Author
+
+Vikas Pratap
+📍 Lucknow, India
+LinkedIn
+ • GitHub
+
+❤️ Designed & Developed by Vikas
+
+A simple project built with love and logic 💡
 
 ### 1. Clone the repository
 ```bash
